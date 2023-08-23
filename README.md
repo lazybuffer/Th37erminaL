@@ -1,5 +1,5 @@
 # 7erminaL
-This tool is only for unix/linux os
+This tool is only for unix/linux os and python3.
 <pre>
 #######                                      #       
 #    #  ###### #####  #    # # #    #   ##   #       
@@ -12,7 +12,7 @@ This tool is only for unix/linux os
 
 <h1>First you need to install some python libreries</h1>
 
-<h2>To install the python lib run command below</h2>
+<h2>To install the libreries run command below</h2>
 
 ## <h3>pip3 install requirements.txt</h3>
 
