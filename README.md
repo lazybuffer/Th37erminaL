@@ -16,7 +16,7 @@
   pip3 install requirements.txt
   ```
 
-### Than run the program with below command
+### Than run the program using the below command
   ```
   python3 7erminal.py
   ```
