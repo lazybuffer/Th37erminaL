@@ -5,7 +5,7 @@ This tool is only for unix/linux os
 <pre>
     <li><h3>To install the python lib</h3></li>
     <li><h3>Run pip3 install requirements.txt</h3></li>
-    <br/>
+    <!-- <br/> -->
     <li><h1>Than run the program with this command</h1></li>
     <li>
         <td><h3>python3 7erminal.py</h3></td>
