@@ -1,6 +1,6 @@
 ## 7erminaL
 ### This tool is only for unix/linux os and python3.
-```
+<pre>
 #######                                      #       
 #    #  ###### #####  #    # # #    #   ##   #       
     #   #      #    # ##  ## # ##   #  #  #  #       
@@ -8,7 +8,7 @@
   #     #      #####  #    # # #  # # ###### #       
   #     #      #   #  #    # # #   ## #    # #       
   #     ###### #    # #    # # #    # #    # #######
-```
+</pre>
 
 ## First you need to install some python libreries
 ### To install the libreries run command below
