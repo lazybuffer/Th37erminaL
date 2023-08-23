@@ -12,8 +12,8 @@
 
 ## social-media
   - instagram>_ https://www.instagram.com/01010100010_
-  - instagram>_ https://www.facebook.com/abhijitboro438
-  - instagram>_ https://www.x.com/0101Whoami
+  - facebook>_ https://www.facebook.com/abhijitboro438
+  - x>_ https://www.x.com/0101Whoami
 
 
 ## First you need to install some python libreries
