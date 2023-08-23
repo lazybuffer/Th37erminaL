@@ -1,4 +1,4 @@
-# 7erminaL
+#7erminaL
 This tool is only for unix/linux os and python3.
 <pre>
 #######                                      #       
@@ -14,8 +14,8 @@ This tool is only for unix/linux os and python3.
 
 <h2>To install the libreries run command below</h2>
 
-## <h3>pip3 install requirements.txt</h3>
+##<h3>pip3 install requirements.txt</h3>
 
 <h2>Than run the program with below command</h2>
 
-## <h3>python3 7erminal.py</h3>
+##<h3>python3 7erminal.py</h3>
