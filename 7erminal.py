@@ -12,6 +12,8 @@ import multiprocessing
 from multiprocessing import Process, Value
 from time import sleep
 from playsound import playsound
+from colorama import init, Fore
+
 
 
 # '''
@@ -28,6 +30,25 @@ from playsound import playsound
 
 # printing program start message
 # print("\nProgram Start!\n")
+
+# some colors
+init()
+GREEN = Fore.GREEN
+RESET = Fore.RESET
+GRAY = Fore.LIGHTBLACK_EX
+
+# manual text colored
+class bcolors:
+    HEADER = '\033[95m'
+    OKBLUE = '\033[94m'
+    OKGREEN = '\033[92m'
+    WARNING = '\033[93m'
+    FAIL = '\033[91m'
+    ENDC = '\033[0m'
+    BOLD = '\033[1m'
+    UNDERLINE = '\033[4m'
+
+
 # flag variable to print the dots and it's value increases inside the while loop.
 flag = 1
 print(" ")

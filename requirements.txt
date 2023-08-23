@@ -6,6 +6,7 @@ branca==0.6.0
 cachetools==5.3.1
 certifi==2023.7.22
 charset-normalizer==3.2.0
+colorama==0.4.6
 ExifRead==3.0.0
 folium==0.14.0
 frozenlist==1.4.0
