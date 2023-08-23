@@ -10,7 +10,7 @@ This tool is only for unix/linux os and python3.
   #     ###### #    # #    # # #    # #    # #######
 </pre>
 
-<h1>First you need to install some python libreries</h1>
+# First you need to install some python libreries
 
 <h2>To install the libreries run command below</h2>
 
