@@ -1,6 +1,6 @@
-# 7erminaL
-This tool is only for unix/linux os and python3.
-<pre>
+## 7erminaL
+### This tool is only for unix/linux os and python3.
+```
 #######                                      #       
 #    #  ###### #####  #    # # #    #   ##   #       
     #   #      #    # ##  ## # ##   #  #  #  #       
@@ -8,14 +8,15 @@ This tool is only for unix/linux os and python3.
   #     #      #####  #    # # #  # # ###### #       
   #     #      #   #  #    # # #   ## #    # #       
   #     ###### #    # #    # # #    # #    # #######
-</pre>
+```
 
-# First you need to install some python libreries
+## First you need to install some python libreries
+### To install the libreries run command below
+  ```
+  pip3 install requirements.txt
+  ```
 
-<h2>To install the libreries run command below</h2>
-
-- pip3 install requirements.txt
-
-<h2>Than run the program with below command</h2>
-
-- python3 7erminal.py
+### Than run the program with below command
+  ```
+  python3 7erminal.py
+  ```
