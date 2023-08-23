@@ -1,6 +1,6 @@
 # 7erminaL
 This tool is only for unix/linux os
-<pre>
+<!-- <pre> -->
 #######                                      #       
 #    #  ###### #####  #    # # #    #   ##   #       
     #   #      #    # ##  ## # ##   #  #  #  #       
@@ -8,7 +8,7 @@ This tool is only for unix/linux os
   #     #      #####  #    # # #  # # ###### #       
   #     #      #   #  #    # # #   ## #    # #       
   #     ###### #    # #    # # #    # #    # #######
-</pre>
+<!-- </pre> -->
 
 <h1>First you need to install some python libreries</h1>
 
