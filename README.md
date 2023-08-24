@@ -15,12 +15,16 @@
   - facebook>_ https://www.facebook.com/abhijitboro438
   - x>_ https://www.x.com/0101Whoami
 
-
-## First you need to create virtual-environment
+# Handle all required libreries
+### Step 1. First you need to create virtual-environment
    ```
    python3 -m venv [ folder-name ]
    ```
-
+### Step 2. Than activate your virtual-environment
+   ```
+   source [ folder-name/bin/activate ]
+   ```
+# installation
 ### To install the libreries run command below
   ```
   pip3 install requirements.txt
