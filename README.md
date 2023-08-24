@@ -16,7 +16,11 @@
   - x>_ https://www.x.com/0101Whoami
 
 
-## First you need to install some python libreries
+## First you need to create virtual-environment
+   ```
+   python3 -m venv [ folder-name ]
+   ```
+
 ### To install the libreries run command below
   ```
   pip3 install requirements.txt
