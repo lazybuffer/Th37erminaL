@@ -25,12 +25,12 @@
    source [ folder-name/bin/activate ]
    ```
 # installation
-### To install the libreries run command below
+### Step 1. To install the libreries run command below
   ```
   pip3 install requirements.txt
   ```
 
-### Than run the program using the below command
+### Step 2. Than run the program using the below command
   ```
   python3 7erminal.py
   ```
