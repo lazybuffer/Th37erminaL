@@ -1,7 +1,7 @@
 ## Th37erminaL
 ### This tool is only for unix/linux os and python3.
 <pre>
-#######                                      #       
+########                                     #       
 #    #  ###### #####  #    # # #    #   ##   #       
     #   #      #    # ##  ## # ##   #  #  #  #       
    #    #####  #    # # ## # # # #  # #    # #       
