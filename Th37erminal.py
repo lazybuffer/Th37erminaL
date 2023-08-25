@@ -59,7 +59,7 @@ while Th37erminaL:
     # # print("")
     
     # logo decoration
-    random_obj = ["HACKER", "H4CK3R", "H@CKE4"]
+    random_obj = ["[ HACKER ]", "[ H4CK3R ]", "[ H@CKE4 ]"]
     print(bcolors.HEADER+'''
 
      #######         #####  #######                                      #       
