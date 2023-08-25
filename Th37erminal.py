@@ -51,8 +51,8 @@ print(" ")
 os.system("clear")
 
 # main loop function...
-Terminal = True 
-while Terminal:
+Th37erminaL = True 
+while Th37erminaL:
     # banner  
     # print("")
     # print(os.system("cat assets/banner/banner.txt"))
@@ -62,13 +62,13 @@ while Terminal:
     random_obj = ["HACKER", "H4CK3R", "H@CKE4"]
     print(bcolors.HEADER+'''
 
-    #######                                      #       
-    #    #  ###### #####  #    # # #    #   ##   #       
-        #   #      #    # ##  ## # ##   #  #  #  #       
-       #    #####  #    # # ## # # # #  # #    # #       
-      #     #      #####  #    # # #  # # ###### #       
-      #     #      #   #  #    # # #   ## #    # #       
-      #     ###### #    # #    # # #    # #    # #######
+     #######         #####  #######                                      #       
+        #    #    #       # #    #  ###### #####  #    # # #    #   ##   #       
+        #    #    #       #     #   #      #    # ##  ## # ##   #  #  #  #       
+        #    ######  #####     #    #####  #    # # ## # # # #  # #    # #       
+        #    #    #       #   #     #      #####  #    # # #  # # ###### #       
+        #    #    #       #   #     #      #   #  #    # # #   ## #    # #       
+        #    #    #  #####    #     ###### #    # #    # # #    # #    # #######
                                                 
         '''+bcolors.ENDC+bcolors.BOLD+bcolors.OKBLUE+random.choice(random_obj)+bcolors.ENDC)
     print(" ")
