@@ -43,7 +43,7 @@ os.system("clear")
 
 # To print the dots we use while loop. In total, 4 dots will be printed.
 while flag < 20:
-    print(bcolors.BOLD+bcolors.WARNING+f"\r  7erminaL{('.' * flag)} ", end=" "+bcolors.ENDC)
+    print(bcolors.BOLD+bcolors.WARNING+f"\r  Th37erminaL{('.' * flag)} ", end=" "+bcolors.ENDC)
     time.sleep(0.2)
     flag = flag + 1
 print(" ")
